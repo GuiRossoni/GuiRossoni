@@ -15,7 +15,6 @@
   <img align="center" alt="Rafa-C++" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
   <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/0ec36e457d416af3620724c13c547a49.gif" width="150" height="150" border="0" align="right" alt="gif_Anne" /></a><br/>
 </div>
