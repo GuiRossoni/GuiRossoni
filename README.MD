@@ -1,7 +1,7 @@
 ## Oiii! Eu sou o Guilherme Rossoni
 
 - 🔭  Atualmente trabalho com Backend e Sistemas de internet
-- 🌱  Estudando C++, Java, PHP.
+- 🌱  Estudando C++, Java, PHP, Bash e Rust.
 - 😄  Pronouns: Ele/Dele
 
 <div>
