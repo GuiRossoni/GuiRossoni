@@ -16,7 +16,7 @@
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
   
-  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/93fc57d86e6780304be9f8b72357bb0e.gif" width="150" height="150" border="0" align="right" alt="gif_Anne" /></a><br/>
+  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/ee9a0bce2a6fa64db353ab319850fa5a.gif" width="200" height="200" border="0" align="right" alt="gif_Anne" /></a><br/>
 </div>
 
 ###
